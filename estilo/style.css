@@ -51,6 +51,7 @@ header > h1{
 
 header >p {
     font-weight: bold;
+    padding-bottom: 50px;
 }
 
 strong{
